@@ -1,4 +1,4 @@
-# HIQA
+# H-IQA
 Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning
 
 
